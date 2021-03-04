@@ -1,0 +1,2 @@
+a. Se Saldo_ContaCorrente_Debito >= 0
+Então Saldo_ContaCorrente_ Favorecido = Saldo_ContaCorrente_ Favorecido + Valor_Transferencia
